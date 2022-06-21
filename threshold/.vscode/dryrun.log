@@ -1,0 +1,5 @@
+make Readimage --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/afaraarge/Masaüstü/OpenCV C++/threshold'
+g++ -o Readimage Readimage.cpp `pkg-config opencv --cflags --libs`
+make: Leaving directory '/home/afaraarge/Masaüstü/OpenCV C++/threshold'
+ 
